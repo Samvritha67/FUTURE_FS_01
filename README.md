@@ -34,6 +34,8 @@ SKILLS:
 <img width="1467" height="704" alt="Screenshot 2026-08-10 at 9 44 06 PM" src="https://github.com/user-attachments/assets/ab6ee945-0b46-4865-86b5-64b1d82919b5" />
 PROJECTS:
 <img width="1457" height="801" alt="Screenshot 2026-08-10 at 9 44 18 PM" src="https://github.com/user-attachments/assets/31875210-26bc-471a-be30-f9c8fb4d942f" />
+CONTACT:
+<img width="1470" height="835" alt="Screenshot 2026-08-10 at 9 44 37 PM" src="https://github.com/user-attachments/assets/e67b5ac9-8f4d-439b-92e1-34162ddc0a0b" />
 
 ---
 
@@ -102,4 +104,4 @@ NOTIFICATION_RECIPIENT=samvrithalathish67@gmail.com
 ---
 
 ## 📜 License
-Developed for Samvritha Lathish's Portfolio & Future Interns Full Stack Web Development project.
+Developed for Samvritha Lathish's Portfolio.
