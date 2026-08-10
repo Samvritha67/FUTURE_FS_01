@@ -1,6 +1,6 @@
 # Samvritha Lathish — Full-Stack Portfolio Website
 
-A production-grade, full-stack portfolio web application for **Samvritha Lathish** (B.Tech CSE — AI & ML @ SRM IST, Chennai), built following the **Future Interns Full Stack Web Development** specifications.
+A production-grade, full-stack portfolio web application for **Samvritha Lathish** (B.Tech CSE — AI & ML @ SRM IST, Chennai).
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB-blue?style=for-the-badge)
@@ -24,7 +24,19 @@ A production-grade, full-stack portfolio web application for **Samvritha Lathish
 - **SEO & Social Visibility**:
   - Full HTML5 semantic tags, Open Graph meta tags, Twitter card tags, and **Schema.org Person JSON-LD** for search engines.
 
+SCREENSHOT:
+
+INTERFACE:
+<img width="1470" height="839" alt="Screenshot 2026-08-10 at 9 42 54 PM" src="https://github.com/user-attachments/assets/bc7c1b3e-0826-448d-9c2c-814e2f125cb5" />
+ABOUT:
+<img width="1470" height="836" alt="Screenshot 2026-08-10 at 9 43 27 PM" src="https://github.com/user-attachments/assets/5fcc9386-4225-4685-8c22-96eccc4a58fa" />
+SKILLS:
+<img width="1467" height="704" alt="Screenshot 2026-08-10 at 9 44 06 PM" src="https://github.com/user-attachments/assets/ab6ee945-0b46-4865-86b5-64b1d82919b5" />
+PROJECTS:
+<img width="1457" height="801" alt="Screenshot 2026-08-10 at 9 44 18 PM" src="https://github.com/user-attachments/assets/31875210-26bc-471a-be30-f9c8fb4d942f" />
+
 ---
+
 
 ## 🛠️ Project Structure
 
